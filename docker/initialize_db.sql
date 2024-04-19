@@ -1,4 +1,0 @@
-CREATE DATABASE IF NOT EXISTS `tasks`;
-CREATE DATABASE IF NOT EXISTS `tasks-tests`;
-
-GRANT ALL ON *.* TO 'mysql_dev'@'%';
