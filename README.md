@@ -13,15 +13,11 @@ Before running this application, ensure that you have the following prerequisite
   
 ### Getting Started  
   
-Follow these steps to run the Spring Boot application:  
-  
-Clone the repository to your local machine:  
-  
-**git clone https://github.com/amirsoofali/spring-test.git**  
+First, I think you should clone this project. 
   
 ### Navigate to the project directory:  
   
-cd spring-test  
+cd sample-restapi-with-spring  
   
 ### Build the application using Maven:  
   
